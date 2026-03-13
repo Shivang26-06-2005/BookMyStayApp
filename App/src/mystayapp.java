@@ -12,8 +12,6 @@
  * startup process and introduce fundamental Java concepts such as
  * classes, the main method, console output, and JavaDoc documentation.</p>
  *
- * @author Raj Mehta
- * @version 1.0
  */
 public class mystayapp {
 
